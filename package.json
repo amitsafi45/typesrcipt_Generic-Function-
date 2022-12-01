@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start:dev": "ts-node ./src/test.ts"
+    "start:dev": "ts-node ./src/test1.ts"
   },
   "dependencies": {
     "express": "^4.18.2",
